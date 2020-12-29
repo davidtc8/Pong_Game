@@ -7,4 +7,4 @@ Creating the Pong Game in Python!
 - Lists Comprehension
 
 ## Example of the code:
-![snake_game](snake_game.gif)
+![pong](pong.gif)
